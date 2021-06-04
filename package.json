@@ -9,6 +9,7 @@
   "author": "drypot",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^3.6.9"
+    "mongodb": "^3.6.9",
+    "should": "^13.2.3"
   }
 }
