@@ -1,0 +1,14 @@
+{
+  "name": "hello-mongodb",
+  "version": "0.0.1",
+  "description": "MongoDB 놀이터.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drypot",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.6.9"
+  }
+}
